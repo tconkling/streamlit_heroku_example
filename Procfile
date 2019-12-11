@@ -1,1 +1,1 @@
-web: sh bin/setup.sh && streamlit hello
+web: sh bin/create_config.sh && streamlit run app.py
