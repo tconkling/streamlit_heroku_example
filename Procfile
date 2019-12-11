@@ -1,1 +1,1 @@
-web: sh setup.sh
+web: sh bin/setup.sh && streamlit hello
